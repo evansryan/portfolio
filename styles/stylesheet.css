@@ -3,20 +3,45 @@ body {
     margin: 0;
 }
 
+h1 {
+    margin: 0;
+    font-weight: 400;
+}
+
+p {
+    margin: 0;
+}
+
 .font-notable {
     font-family: 'Notable', sans-serif;
+}
+
+.font-lato {
+    font-family: 'Lato', serif;
 }
 
 .color-brand-peach {
     color: #FFCDB2;
 }
 
+.color-brand-peach2 {
+    color: #FFB4A2;
+}
+
 .brand-maroon {
     background-color: #B5838D;
 }
 
+.color-brand-dark {
+    color: #6D6875;
+}
+
 .font-size-40 {
     font-size: 40px;
+}
+
+.font-size-48 {
+    font-size: 48px;
 }
 
 .ptop-50 {
@@ -56,6 +81,14 @@ body {
     margin-top: 45px;
 }
 
+.mtop-35 {
+    margin-top: 35px;
+}
+
 .text-decoration-none {
     text-decoration: none;
+}
+
+.text-center {
+    text-align: center;
 }
