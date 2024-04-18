@@ -3,22 +3,59 @@ body {
     margin: 0;
 }
 
+.font-notable {
+    font-family: 'Notable', sans-serif;
+}
+
+.color-brand-peach {
+    color: #FFCDB2;
+}
+
 .brand-maroon {
     background-color: #B5838D;
+}
+
+.font-size-40 {
+    font-size: 40px;
 }
 
 .ptop-50 {
     padding-top: 50px;
 }
 
-.pbot-100 {
-    padding-bottom: 100px;
+.pbot-55 {
+    padding-bottom: 55px;
 }
 
 .block {
     display: block;
 }
 
+.flex {
+    display: flex;
+}
+
+.space-evenly {
+    justify-content: space-evenly;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
 .mcenter {
     margin: 0 auto;
+}
+
+.mx-45 {
+    margin-right: 45px;
+    margin-left: 45px;
+}
+
+.mtop-45 {
+    margin-top: 45px;
+}
+
+.text-decoration-none {
+    text-decoration: none;
 }
