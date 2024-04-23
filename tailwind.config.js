@@ -8,11 +8,11 @@ module.exports = {
       }
     },
     colors: {
-      lightpeach: '#FFCDb2',
-      darkpeach: '#FFB4A2',
-      lightred: '#E5989B',
-      darkred: '#B5838D',
-      darkgrey: '#6D6875'
+      brand_offwhite: '#F0F0F0',
+      brand_darkgreen: '#135A1D',
+      brand_lightgreen: '#20BB68',
+      brand_orange: '#DC7C23',
+      brand_gray: '#444444'
     }
   },
   plugins: [],
